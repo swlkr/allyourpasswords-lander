@@ -1,4 +1,5 @@
 body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   background: #00b4ff;
   color: #333;
   font: 100% Arial, Sans Serif;
