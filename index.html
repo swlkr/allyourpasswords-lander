@@ -35,6 +35,9 @@
     <link rel="shortcut icon" href="/favicon.ico" />
   </head>
   <body>
+    <div id="producthunt" class="fixed w-100 tc pa4 bg-orange white" style="display: none">
+      Welcome product hunt! Use promo code producthunt to get 50% off!
+    </div>
     <div class="mw9 center ph3-ns pt7-ns">
       <div class="cf ph2-ns">
         <div class="fl w-100 w-40-ns pt4 ph2 dn db-ns">
@@ -79,6 +82,13 @@
     <script src="https://cdn.paddle.com/paddle/paddle.js"></script>
     <script type="text/javascript">
       Paddle.Setup({ vendor: 39277 });
+    </script>
+    <script type="text/javascript">
+      var urlParams = new URLSearchParams(window.location.search);
+      var ref = urlParams.get('ref');
+      if(ref === 'producthunt') {
+        document.getElementById('producthunt').style.display = 'block';
+      }
     </script>
   </body>
 </html>
