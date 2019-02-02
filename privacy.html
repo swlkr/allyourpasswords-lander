@@ -1,48 +1,114 @@
-<html>
-  <head>
-    <title>All Your Passwords</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>All Your Passwords</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,400i|Roboto:500" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <meta charset="utf-8" />
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="A macOS app for managing your passwords" />
+  <meta name="image" content="https://allyourpasswords.com/social@2x.png" />
+  <meta itemprop="name" content="All Your Passwords" />
+  <meta itemprop="description" content="A macOS app for managing your passwords" />
+  <meta itemprop="image" content="https://allyourpasswords.com/social@2x.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="All Your Passwords" />
+  <meta name="twitter:description" content="A macOS app for managing your passwords" />
+  <meta name="twitter:site" content="@swlkr" />
+  <meta name="twitter:creator" content="@swlkr" />
+  <meta name="twitter:image:src" content="https://allyourpasswords.com/social@2x.png" />
+  <meta property="og:title" content="All Your Passwords" />
+  <meta property="og:description" content="A macOS app for managing your passwords" />
+  <meta property="og:image" content="https://allyourpasswords.com/social@2x.png">
+  <meta property="og:url" content="https://allyourpasswords.com" />
+  <meta property="og:site_name" content="All Your Passwords" />
+  <meta property="og:type" content="website" />
 
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="description" content="A macOS app for managing your passwords" />
-    <meta name="image" content="https://allyourpasswords.com/social@2x.png" />
-    <meta itemprop="name" content="All Your Passwords" />
-    <meta itemprop="description" content="A macOS app for managing your passwords" />
-    <meta itemprop="image" content="https://allyourpasswords.com/social@2x.png" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="All Your Passwords" />
-    <meta name="twitter:description" content="A macOS app for managing your passwords" />
-    <meta name="twitter:site" content="@swlkr" />
-    <meta name="twitter:creator" content="@swlkr" />
-    <meta name="twitter:image:src" content="https://allyourpasswords.com/social@2x.png" />
-    <meta property="og:title" content="All Your Passwords" />
-    <meta property="og:description" content="A macOS app for managing your passwords" />
-    <meta property="og:image" content="https://allyourpasswords.com/social@2x.png">
-    <meta property="og:url" content="https://allyourpasswords.com" />
-    <meta property="og:site_name" content="All Your Passwords" />
-    <meta property="og:type" content="website" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/favicon.ico" />
+</head>
+<body class="is-boxed has-animations">
+  <div class="body-wrap boxed-container">
+      <header class="site-header">
+          <div class="container">
+              <div class="site-header-inner">
+                  <div class="brand header-brand">
+                      <h1 class="m-0">
+                          <a href="">
+                            <img src="icon-256@2x.png" width="32" height="32" />
+                          </a>
+                      </h1>
+                  </div>
+              </div>
+          </div>
+      </header>
 
-    <link rel="stylesheet" href="tachyons.min.css" />
-    <link rel="stylesheet" href="index.css" />
-    <link rel="shortcut icon" href="/favicon.ico" />
-  </head>
-  <body>
-    <div class="mw7 pt7-ns center tc white pa4">
-      <h1 class="mt0 f-subheadline-l f1 lh-title white" style="text-shadow: 1px 1px 3px #357EDD;">All Your Privacy</h1>
-      <p>
-        There are no analytics. No ads. No storage of your information. At all. Not even so much as an email or an IP Address.
+      <main>
+          <section class="hero text-center">
+              <div class="container-sm">
+                  <div class="hero-inner">
+                      <h1 class="hero-title h2-mobile mt-0 is-revealing">All your privacy</h1>
+                      <div class="hero-form newsletter-form field field-grouped is-revealing">
+                      </div>
+                      <div class="hero-browser">
 
-        There is still the mac app store of course, which has it's own problems, but I'm working on separating allyourpasswords from that as well.
-      </p>
-      <p>
-        Oh! One thing that might be a concern for the truly privacy conscious is that the app does fetch favicons, so that's something to consider.
-      </p>
-      <div class="bottom-0 pa3 tc white">
-        <a href="/" class="white">Home</a>
-        <a href="support.html" class="white">Support</a>
-        <a href="privacy.html" class="white">Privacy</a>
-        <a href="about.html" class="white">About</a>
-        <a href="https://github.com/swlkr/allyourpasswords" class="white">Source</a>
-      </div>
-  </body>
+                          <div class="hero-browser-inner is-revealing">
+                            <p>There are no analytics.</p>
+                            <p>No ads.</p>
+                            <p>No storage of your information. At all. Not even so much as an IP Address.</p>
+                            <p>There is still the mac app store and devmate of course, which both have their own problems, but I'm working on separating from at least devmate as well.</p>
+                            <p>Oh! One thing that might be a concern for the truly privacy conscious is that the app does fetch favicons, so that's something to consider.</p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </section>
+      </main>
+
+      <footer class="site-footer text-light">
+          <div class="container">
+              <div class="site-footer-inner">
+                  <div class="brand footer-brand">
+                  </div>
+                  <ul class="footer-links list-reset">
+                      <li>
+                          <a href="about.html">About</a>
+                      </li>
+                      <li>
+                          <a href="https://github.com/swlkr/allyourpasswords">Source</a>
+                      </li>
+                      <li>
+                          <a href="privacy.html">Privacy</a>
+                      </li>
+                      <li>
+                          <a href="support.html">Support</a>
+                      </li>
+                  </ul>
+                  <ul class="footer-social-links list-reset">
+                      <li>
+                          <a href="https://twitter.com/swlkr">
+                              <span class="screen-reader-text">Twitter</span>
+                              <svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M16 3c-.6.3-1.2.4-1.9.5.7-.4 1.2-1 1.4-1.8-.6.4-1.3.6-2.1.8-.6-.6-1.5-1-2.4-1-1.7 0-3.2 1.5-3.2 3.3 0 .3 0 .5.1.7-2.7-.1-5.2-1.4-6.8-3.4-.3.5-.4 1-.4 1.7 0 1.1.6 2.1 1.5 2.7-.5 0-1-.2-1.5-.4C.7 7.7 1.8 9 3.3 9.3c-.3.1-.6.1-.9.1-.2 0-.4 0-.6-.1.4 1.3 1.6 2.3 3.1 2.3-1.1.9-2.5 1.4-4.1 1.4H0c1.5.9 3.2 1.5 5 1.5 6 0 9.3-5 9.3-9.3v-.4C15 4.3 15.6 3.7 16 3z" fill="#FFFFFF"/>
+                              </svg>
+                          </a>
+                      </li>
+                  </ul>
+                  <div class="footer-copyright">&copy; 2019 Sean Walker</div>
+              </div>
+          </div>
+      </footer>
+  </div>
+
+  <script src="main.js"></script>
+</body>
 </html>
