@@ -7,4 +7,13 @@
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
 <enclosure url="https://allyourpasswords.com/allyourpasswords.zip" sparkle:version="5" sparkle:shortVersionString="1.2" length="9233406" type="application/octet-stream" sparkle:edSignature="f33bbKUDR2xNecdF1/7JL+uSNXjl2E9b6EOkUK74VbIH0LZ6MlEKBEw75rvyOBbsqZIcz852aCXDcezZpf7ODQ=="/>
 </item>
+<item>
+<title>1.3</title>
+<pubDate>Sun, 03 Feb 2019 13:13:30 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://allyourpasswords.com/allyourpasswords%202.zip" sparkle:version="6" sparkle:shortVersionString="1.3" length="7169316" type="application/octet-stream" sparkle:edSignature="bIOSkUQyjsj8MICYyZ9PuG90/X/3YpTCyGnZh08YesDAmMKYJyBfa9xYF2XohOiqhk648m8Ptfh5F4hYchKQDA=="/>
+<sparkle:deltas>
+<enclosure url="https://allyourpasswords.com/allyourpasswords6-5.delta" sparkle:version="6" sparkle:shortVersionString="1.3" sparkle:deltaFrom="5" length="89747" type="application/octet-stream" sparkle:edSignature="CPq2f5nQrm3sYlY6OG4Jcdjp25hSGG7T6p7U7yLHk3pgnq/QExLlpwXK7yFoHhUf2ptZ2G33J747pauL7wcnDg=="/></sparkle:deltas>
+</item>
+
 </channel></rss>
