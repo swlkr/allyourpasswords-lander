@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>allyourpasswords</title>
+<item>
+<title>1.2</title>
+<pubDate>Sun, 03 Feb 2019 12:43:37 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://allyourpasswords.com/allyourpasswords.zip" sparkle:version="5" sparkle:shortVersionString="1.2" length="9233406" type="application/octet-stream" sparkle:edSignature="f33bbKUDR2xNecdF1/7JL+uSNXjl2E9b6EOkUK74VbIH0LZ6MlEKBEw75rvyOBbsqZIcz852aCXDcezZpf7ODQ=="/>
+</item>
+</channel></rss>
