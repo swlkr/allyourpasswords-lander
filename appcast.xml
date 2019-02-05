@@ -3,19 +3,8 @@
 <title>allyourpasswords</title>
 <item>
 <title>1.1.10</title>
-<pubDate>Tue, 05 Feb 2019 11:44:25 -0700</pubDate>
+<pubDate>Tue, 05 Feb 2019 12:14:41 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://allyourpasswords.com/allyourpasswords.1.1.10.zip" sparkle:version="10" sparkle:shortVersionString="1.1.10" length="11590919" type="application/octet-stream" sparkle:edSignature="/VuyBPYpsqyFUcoR05e8JqaB9XxlcrM1jSKaBtjQ10gCNtCn40oAtdyDcIxRiAJq9uYMLD3QUCqDMCcnCe6TAA=="/>
+<enclosure url="https://allyourpasswords.com/allyourpasswords.1.1.10.zip" sparkle:version="10" sparkle:shortVersionString="1.1.10" length="8554479" type="application/octet-stream" sparkle:edSignature="q+6m+tWBuiwQSQjHMF8n9T9oqIYBXSJ1o/LIbbxzvqZC+B/MzFpb9rXoo+4bkLyu1HfxlY67G7zIqzXZEb3WDg=="/>
 </item>
-
-<item>
-<title>1.1.9</title>
-<pubDate>Tue, 05 Feb 2019 11:36:11 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://allyourpasswords.com/allyourpasswords.1.1.9.zip" sparkle:version="9" sparkle:shortVersionString="1.1.9" length="11590925" type="application/octet-stream" sparkle:edSignature="W91GDnPUrqBPdsikmE2I8C713Gnq8c8PSbmRa1ElcQQgeFOStmTMJME9BOctxy/ohEfzGTt5ZicBtx1x7q9GBw=="/>
-</item>
-
-
-
-
 </channel></rss>
