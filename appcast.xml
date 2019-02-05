@@ -2,34 +2,19 @@
 <channel>
 <title>allyourpasswords</title>
 <item>
-<title>1.2</title>
-<pubDate>Sun, 03 Feb 2019 12:43:37 -0700</pubDate>
+<title>1.1.10</title>
+<pubDate>Tue, 05 Feb 2019 11:44:25 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://allyourpasswords.com/allyourpasswords.zip" sparkle:version="5" sparkle:shortVersionString="1.2" length="9233406" type="application/octet-stream" sparkle:edSignature="f33bbKUDR2xNecdF1/7JL+uSNXjl2E9b6EOkUK74VbIH0LZ6MlEKBEw75rvyOBbsqZIcz852aCXDcezZpf7ODQ=="/>
+<enclosure url="https://allyourpasswords.com/allyourpasswords.1.1.10.zip" sparkle:version="10" sparkle:shortVersionString="1.1.10" length="11590919" type="application/octet-stream" sparkle:edSignature="/VuyBPYpsqyFUcoR05e8JqaB9XxlcrM1jSKaBtjQ10gCNtCn40oAtdyDcIxRiAJq9uYMLD3QUCqDMCcnCe6TAA=="/>
 </item>
+
 <item>
-<title>1.3</title>
-<pubDate>Sun, 03 Feb 2019 13:13:30 -0700</pubDate>
+<title>1.1.9</title>
+<pubDate>Tue, 05 Feb 2019 11:36:11 -0700</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://allyourpasswords.com/allyourpasswords%202.zip" sparkle:version="6" sparkle:shortVersionString="1.3" length="7169316" type="application/octet-stream" sparkle:edSignature="bIOSkUQyjsj8MICYyZ9PuG90/X/3YpTCyGnZh08YesDAmMKYJyBfa9xYF2XohOiqhk648m8Ptfh5F4hYchKQDA=="/>
-<sparkle:deltas>
-<enclosure url="https://allyourpasswords.com/allyourpasswords6-5.delta" sparkle:version="6" sparkle:shortVersionString="1.3" sparkle:deltaFrom="5" length="89747" type="application/octet-stream" sparkle:edSignature="CPq2f5nQrm3sYlY6OG4Jcdjp25hSGG7T6p7U7yLHk3pgnq/QExLlpwXK7yFoHhUf2ptZ2G33J747pauL7wcnDg=="/></sparkle:deltas>
+<enclosure url="https://allyourpasswords.com/allyourpasswords.1.1.9.zip" sparkle:version="9" sparkle:shortVersionString="1.1.9" length="11590925" type="application/octet-stream" sparkle:edSignature="W91GDnPUrqBPdsikmE2I8C713Gnq8c8PSbmRa1ElcQQgeFOStmTMJME9BOctxy/ohEfzGTt5ZicBtx1x7q9GBw=="/>
 </item>
-<item>
-<title>1.4</title>
-<pubDate>Mon, 04 Feb 2019 12:39:50 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://allyourpasswords.com/allyourpasswords%203.zip" sparkle:version="7" sparkle:shortVersionString="1.4" length="8547404" type="application/octet-stream" sparkle:edSignature="KjhykTo9pYJUlHeIC8APGYhNopthAGv0xtcfInOTGBDDMIuk9grrQ/j+B34kiNR7j8fsXbr+hX1zZdqss1ocBg=="/>
-<sparkle:deltas>
-<enclosure url="https://allyourpasswords.com/allyourpasswords7-6.delta" sparkle:version="7" sparkle:shortVersionString="1.4" sparkle:deltaFrom="6" length="2166651" type="application/octet-stream" sparkle:edSignature="aorYQbPyNe8whPUV+hnmwTJBxMW3hCj6CxZrJBkY5F/o0tp9jc5X+1gmOvLHcgjGMG42SDDn0NqT1iAPxdIAAw=="/>
-<enclosure url="https://allyourpasswords.com/allyourpasswords7-5.delta" sparkle:version="7" sparkle:shortVersionString="1.4" sparkle:deltaFrom="5" length="2201218" type="application/octet-stream" sparkle:edSignature="qbvQ69ziUnE/m6QfTf9H5uPqzelyexP/3AY3GvENBf5uFrweeJqr89BdRwugPzfIzcYLYqOQqZkUCZjthCSzAw=="/></sparkle:deltas>
-</item>
-<item>
-<title>1.5</title>
-<pubDate>Mon, 04 Feb 2019 14:37:02 -0700</pubDate>
-<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://allyourpasswords.com/allyourpasswords%208.zip" sparkle:version="8" sparkle:shortVersionString="1.5" length="8554776" type="application/octet-stream" sparkle:edSignature="RucbIiWkbqKscA5dNahlGzyp1WouIWThqVKrlh4d1NLmAh9eCNjC0S+vJ0KnH5NePN/s3ic+QqiH+oFsLgqEBQ=="/>
-</item>
+
 
 
 
